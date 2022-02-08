@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/admin/StudioProjects/android_hello_world/app/build/intermediates/merged_res/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/admin/StudioProjects/android_hello_world/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/admin/StudioProjects/android_hello_world/app/build/intermediates/merged_res/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/admin/StudioProjects/android_hello_world/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,-1",
+                        "startColumns": "4,4,-1",
+                        "startOffsets": "56,123,-1",
+                        "endColumns": "66,56,-1",
+                        "endOffsets": "118,175,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,122,179",
+                        "endColumns": "66,56,50",
+                        "endOffsets": "117,174,225"
+                    }
+                },
+                {
+                    "source": "/Users/admin/StudioProjects/android_hello_world/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "230,313",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "308,380"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/admin/StudioProjects/android_hello_world/app/build/intermediates/merged_res/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/admin/StudioProjects/android_hello_world/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/admin/StudioProjects/android_hello_world/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/admin/StudioProjects/android_hello_world/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,-1",
+                        "startColumns": "4,4,-1",
+                        "startOffsets": "56,123,-1",
+                        "endColumns": "66,56,-1",
+                        "endOffsets": "118,175,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,122,179",
+                        "endColumns": "66,56,50",
+                        "endOffsets": "117,174,225"
+                    }
+                },
+                {
+                    "source": "/Users/admin/StudioProjects/android_hello_world/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "230,313",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "308,380"
+                    }
+                }
+            ]
+        }
+    ]
+}

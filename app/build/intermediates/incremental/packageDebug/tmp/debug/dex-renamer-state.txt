@@ -1,0 +1,7 @@
+#Tue Feb 01 10:33:49 EST 2022
+base.1=/Users/admin/StudioProjects/android_hello_world/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+path.1=1/classes.dex
+base.0=/Users/admin/StudioProjects/android_hello_world/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
